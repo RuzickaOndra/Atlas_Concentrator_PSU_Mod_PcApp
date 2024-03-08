@@ -1,0 +1,20 @@
+/Volumes/GoogleDrive-116041042848792784149/Můj disk/Visual_Studio/HV_Power_Supply_GUI/HV_Power_Supply_GUI_ver.1/bin/Debug/HV_Power_Supply_GUI_ver.1.exe.config
+/Volumes/GoogleDrive-116041042848792784149/Můj disk/Visual_Studio/HV_Power_Supply_GUI/HV_Power_Supply_GUI_ver.1/bin/Debug/HV_Power_Supply_GUI_ver.1.exe
+/Volumes/GoogleDrive-116041042848792784149/Můj disk/Visual_Studio/HV_Power_Supply_GUI/HV_Power_Supply_GUI_ver.1/bin/Debug/HV_Power_Supply_GUI_ver.1.pdb
+/Volumes/GoogleDrive-116041042848792784149/Můj disk/Visual_Studio/HV_Power_Supply_GUI/HV_Power_Supply_GUI_ver.1/obj/Debug/HV_Power_Supply_GUI_ver.1.csproj.AssemblyReference.cache
+/Volumes/GoogleDrive-116041042848792784149/Můj disk/Visual_Studio/HV_Power_Supply_GUI/HV_Power_Supply_GUI_ver.1/obj/Debug/HV_Power_Supply_GUI_ver._1.Form1.resources
+/Volumes/GoogleDrive-116041042848792784149/Můj disk/Visual_Studio/HV_Power_Supply_GUI/HV_Power_Supply_GUI_ver.1/obj/Debug/HV_Power_Supply_GUI_ver._1.Properties.Resources.resources
+/Volumes/GoogleDrive-116041042848792784149/Můj disk/Visual_Studio/HV_Power_Supply_GUI/HV_Power_Supply_GUI_ver.1/obj/Debug/HV_Power_Supply_GUI_ver.1.csproj.GenerateResource.cache
+/Volumes/GoogleDrive-116041042848792784149/Můj disk/Visual_Studio/HV_Power_Supply_GUI/HV_Power_Supply_GUI_ver.1/obj/Debug/HV_Power_Supply_GUI_ver.1.csproj.CoreCompileInputs.cache
+/Volumes/GoogleDrive-116041042848792784149/Můj disk/Visual_Studio/HV_Power_Supply_GUI/HV_Power_Supply_GUI_ver.1/obj/Debug/HV_Power_Supply_GUI_ver.1.exe
+/Volumes/GoogleDrive-116041042848792784149/Můj disk/Visual_Studio/HV_Power_Supply_GUI/HV_Power_Supply_GUI_ver.1/obj/Debug/HV_Power_Supply_GUI_ver.1.pdb
+C:\Users\Tomáš\Můj disk (tkulhane@gapps.zcu.cz)\Visual_Studio\HV_Power_Supply_GUI\HV_Power_Supply_GUI_ver.1\obj\Debug\HV_Power_Supply_GUI_ver._1.Form1.resources
+C:\Users\Tomáš\Můj disk (tkulhane@gapps.zcu.cz)\Visual_Studio\HV_Power_Supply_GUI\HV_Power_Supply_GUI_ver.1\obj\Debug\HV_Power_Supply_GUI_ver._1.Properties.Resources.resources
+C:\Users\Tomáš\Můj disk (tkulhane@gapps.zcu.cz)\Visual_Studio\HV_Power_Supply_GUI\HV_Power_Supply_GUI_ver.1\obj\Debug\HV_Power_Supply_GUI_ver.1.csproj.GenerateResource.cache
+C:\Users\Tomáš\Můj disk (tkulhane@gapps.zcu.cz)\Visual_Studio\HV_Power_Supply_GUI\HV_Power_Supply_GUI_ver.1\obj\Debug\HV_Power_Supply_GUI_ver.1.csproj.CoreCompileInputs.cache
+C:\Users\Tomáš\Můj disk (tkulhane@gapps.zcu.cz)\Visual_Studio\HV_Power_Supply_GUI\HV_Power_Supply_GUI_ver.1\obj\Debug\HV_Power_Supply_GUI_ver.1.exe
+C:\Users\Tomáš\Můj disk (tkulhane@gapps.zcu.cz)\Visual_Studio\HV_Power_Supply_GUI\HV_Power_Supply_GUI_ver.1\obj\Debug\HV_Power_Supply_GUI_ver.1.pdb
+C:\Users\Tomáš\Můj disk (tkulhane@gapps.zcu.cz)\Visual_Studio\HV_Power_Supply_GUI\HV_Power_Supply_GUI_ver.1\bin\Debug\HV_Power_Supply_GUI_ver.1.exe.config
+C:\Users\Tomáš\Můj disk (tkulhane@gapps.zcu.cz)\Visual_Studio\HV_Power_Supply_GUI\HV_Power_Supply_GUI_ver.1\bin\Debug\HV_Power_Supply_GUI_ver.1.exe
+C:\Users\Tomáš\Můj disk (tkulhane@gapps.zcu.cz)\Visual_Studio\HV_Power_Supply_GUI\HV_Power_Supply_GUI_ver.1\bin\Debug\HV_Power_Supply_GUI_ver.1.pdb
+C:\Users\Tomáš\Můj disk (tkulhane@gapps.zcu.cz)\Visual_Studio\HV_Power_Supply_GUI\HV_Power_Supply_GUI_ver.1\obj\Debug\HV_Power_Supply_GUI_ver.1.csproj.AssemblyReference.cache

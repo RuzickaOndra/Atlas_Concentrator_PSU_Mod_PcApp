@@ -1,0 +1,92 @@
+<document type="ProfiCAD sxe" version="12">
+<fonts letter="155,0,0,0,Lucida Sans Unicode,000000" text="110,0,0,0,Lucida Sans Unicode,000000" type="85,0,0,0,Arial,000000" refs="85,0,0,0,Arial,000000" wire_names="85,0,0,0,Arial,000000" cross_refs="85,0,0,1,Arial,0000FF" outlets="85,0,0,0,Arial,000000" reports="85,0,0,0,Arial,000000"/>
+<PrintSettings PrinterName="" PaperSize="9" FormName="A4" SheetSizeX="210" SheetSizeY="297" WantsCustom="0" CustomSizeX="283" CustomSizeY="203"/>
+<PrintReportSettings paper_size_enum="9" sheet_size_x="210" sheet_size_y="297" color_bg_even="15727333" color_bg_header="8454143" color_grid="16777215"/>
+<PrinterSettings PaperSizeX="2770" PaperSizeY="1900" PhysicalOffestTenthMm_X="29" PhysicalOffestTenthMm_Y="30"/>
+<tb use="1" name="C:\Users\Public\Documents\ProfiCAD Library\_TB\standard9.ptb"/>
+<PageSettings bgColor="FFFFFF" zoom="300" frame="YES" showT="YES" showV="YES" includeMargins="YES"/>
+<RefGridSettings FieldSize="50"/>
+<NumberingWire Over="1" Digits="3" TypeRenumbering="0" ShowWireName="0" WireLabelDist_a="4" WireLabelDist_b="10" WireLabelDist_c="7"/>
+<summary>
+<field name="author" value=""/>
+<field name="date" value="28.12.2023"/>
+</summary>
+<repo>
+<DimStyle name="strojírenské" arrow="0" flel="0" off_ori="6" lbl_pos="1" align_text="0" f="110,0,0,0,Arial,800080" unit="0" num-digits="2" suppress-zeros="0">
+<DimLine op-lw="1" op-lc="8388608"/>
+<ExtLine op-lw="1" op-lc="32768"/>
+</DimStyle>
+</repo>
+<pages current="0">
+<page name="1" dim_style_name="strojírenské">
+<PageSizeSettings paper_size_enum="9" sheet_size_x="297" sheet_size_y="210" source="0"/>
+<PagePrintSettings paper_size_enum="9" sheet_size_x="297" sheet_size_y="210"/>
+<tb use="1"/>
+<summary>
+<field name="_du" value="mm"/>
+<field name="_pa" value="1"/>
+<field name="_po" value="1"/>
+<field name="_potb" value="1"/>
+<field name="_sc" value=""/>
+<field name="nazev" value=""/>
+<field name="nazevDopln" value=""/>
+</summary>
+<layers current="0">
+<layer name="0" v="1">
+<rect left="880" top="480" right="920" bottom="520"/>
+<rect left="950" top="470" right="1060" bottom="540"/>
+<rect left="1160" top="480" right="1200" bottom="520"/>
+<polyline pts="880,500,840,500,"/>
+<polyline pts="920,500,950,500,"/>
+<polyline pts="1060,500,1160,500,"/>
+<polyline pts="1200,500,1240,500,"/>
+<rect left="880" top="580" right="920" bottom="620"/>
+<rect left="960" top="570" right="1060" bottom="630"/>
+<rect left="1160" top="580" right="1200" bottom="620"/>
+<polyline pts="880,600,840,600,"/>
+<polyline pts="920,600,960,600,"/>
+<polyline pts="1060,600,1160,600,"/>
+<polyline pts="1200,600,1240,600,"/>
+<rect left="880" top="680" right="920" bottom="720"/>
+<rect left="960" top="670" right="1060" bottom="730"/>
+<rect left="1160" top="680" right="1200" bottom="720"/>
+<polyline pts="880,700,840,700,"/>
+<polyline pts="920,700,960,700,"/>
+<polyline pts="1060,700,1160,700,"/>
+<polyline pts="1200,700,1240,700,"/>
+<rect left="880" top="780" right="920" bottom="820"/>
+<rect left="960" top="770" right="1060" bottom="830"/>
+<rect left="1160" top="780" right="1200" bottom="820"/>
+<polyline pts="880,800,840,800,"/>
+<polyline pts="920,800,960,800,"/>
+<polyline pts="1060,800,1160,800,"/>
+<polyline pts="1200,800,1240,800,"/>
+<polyline pts="840,500,840,800,"/>
+<polyline pts="1240,500,1240,600,"/>
+<polyline pts="1240,700,1240,800,"/>
+<polyline pts="1240,750,1280,750,"/>
+<polyline pts="1240,550,1280,550,"/>
+<text x="1006" y="496" f="70,0,0,0,Microsoft Sans Serif,000000" l="1" al="9">Module 1</text>
+<text x="1011" y="601" f="70,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">Mod2</text>
+<text x="1011" y="701" f="70,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">Mod3</text>
+<text x="1011" y="801" f="70,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">Mod4</text>
+<text x="1281" y="531" f="60,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">+3V3</text>
+<text x="1281" y="731" f="60,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">+VCB</text>
+<polyline pts="800,650,840,650,"/>
+<text x="801" y="631" f="60,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">+VIN</text>
+<polyline pts="1080,500,1080,480,"/>
+<polyline pts="1080,480,1090,480,"/>
+<polyline pts="1080,600,1080,580,"/>
+<polyline pts="1080,580,1090,580,"/>
+<polyline pts="1080,700,1080,680,"/>
+<polyline pts="1080,680,1090,680,"/>
+<polyline pts="1080,800,1080,780,"/>
+<polyline pts="1080,780,1090,780,"/>
+<polyline pts="950,520,1060,520,"/>
+<text x="991" y="530" f="40,0,0,0,Microsoft Sans Serif,000000" l="1" al="9">Temp:</text>
+<text x="1046" y="530" f="40,0,0,0,Microsoft Sans Serif,000000" l="1" al="9">°C</text>
+</layer>
+</layers>
+</page>
+</pages>
+</document>

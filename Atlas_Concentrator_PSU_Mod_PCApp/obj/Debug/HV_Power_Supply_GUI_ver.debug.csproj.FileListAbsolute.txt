@@ -1,0 +1,11 @@
+C:\Users\Tomáš\Můj disk (tkulhane@gapps.zcu.cz)\Visual_Studio\HV_Power_Supply_GUI\HV_Power_Supply_GUI_ver.debug\bin\Debug\HV_Power_Supply_GUI_ver.1.exe.config
+C:\Users\Tomáš\Můj disk (tkulhane@gapps.zcu.cz)\Visual_Studio\HV_Power_Supply_GUI\HV_Power_Supply_GUI_ver.debug\bin\Debug\HV_Power_Supply_GUI_ver.1.exe
+C:\Users\Tomáš\Můj disk (tkulhane@gapps.zcu.cz)\Visual_Studio\HV_Power_Supply_GUI\HV_Power_Supply_GUI_ver.debug\bin\Debug\HV_Power_Supply_GUI_ver.1.pdb
+C:\Users\Tomáš\Můj disk (tkulhane@gapps.zcu.cz)\Visual_Studio\HV_Power_Supply_GUI\HV_Power_Supply_GUI_ver.debug\obj\Debug\HV_Power_Supply_GUI_ver.debug.csproj.AssemblyReference.cache
+C:\Users\Tomáš\Můj disk (tkulhane@gapps.zcu.cz)\Visual_Studio\HV_Power_Supply_GUI\HV_Power_Supply_GUI_ver.debug\obj\Debug\HV_Power_Supply_GUI_ver._1.Form1.resources
+C:\Users\Tomáš\Můj disk (tkulhane@gapps.zcu.cz)\Visual_Studio\HV_Power_Supply_GUI\HV_Power_Supply_GUI_ver.debug\obj\Debug\HV_Power_Supply_GUI_ver._1.Properties.Resources.resources
+C:\Users\Tomáš\Můj disk (tkulhane@gapps.zcu.cz)\Visual_Studio\HV_Power_Supply_GUI\HV_Power_Supply_GUI_ver.debug\obj\Debug\HV_Power_Supply_GUI_ver.debug.csproj.GenerateResource.cache
+C:\Users\Tomáš\Můj disk (tkulhane@gapps.zcu.cz)\Visual_Studio\HV_Power_Supply_GUI\HV_Power_Supply_GUI_ver.debug\obj\Debug\HV_Power_Supply_GUI_ver.debug.csproj.CoreCompileInputs.cache
+C:\Users\Tomáš\Můj disk (tkulhane@gapps.zcu.cz)\Visual_Studio\HV_Power_Supply_GUI\HV_Power_Supply_GUI_ver.debug\obj\Debug\HV_Power_Supply_GUI_ver.1.exe
+C:\Users\Tomáš\Můj disk (tkulhane@gapps.zcu.cz)\Visual_Studio\HV_Power_Supply_GUI\HV_Power_Supply_GUI_ver.debug\obj\Debug\HV_Power_Supply_GUI_ver.1.pdb
+C:\Users\Tomáš\Můj disk (tkulhane@gapps.zcu.cz)\Visual_Studio\HV_Power_Supply_GUI\HV_Power_Supply_GUI_ver.debug\obj\Debug\HV_Power_Supply_GUI_ver._1.Form_Setting.resources
